@@ -1,4 +1,4 @@
-## Hello, I'm [Fajar Alfarizi (FA)](https://instagram.com/denssptraa) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :sunglasses:
+## Hello, I'm [Fajar Alfarizi (FA)](https://instagram.com/mhmdfjralfarizi_) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :sunglasses:
 
 <img align="right" alt="GIF" height="125px" src="https://media.giphy.com/media/0YLMNYmGyMfcqRX1j1/source.gif" />
 
@@ -15,6 +15,6 @@
 <a href="https://youtube.com/channel/UCdAlsvg9B6llWCWV8JMNhug" target="_blank"><img src="https://img.shields.io/badge/YouTube-%231877F2.svg?&style=flat-square&logo=YouTube&logoColor=white" alt="YouTube"></a>
 <a href="https://wa.me/6281333782061" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=mhmdfjralfarizi_&show_icons=true&theme=radical)
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdfjralfarizi_&layout=compact&theme=nightowl)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=mhmdfjralfarizi_&repo=dnsbot&theme=dark)
+![github stats](https://github-readme-stats.vercel.app/api?username=Tersakiti404-cyber&show_icons=true&theme=radical)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=Tersakiti404-cyber&layout=compact&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Tersakiti404-cyber&repo=dnsbot&theme=dark)
