@@ -12,7 +12,7 @@
 
 ### 📫 Follow Me On
 <a href="https://www.instagram.com/mhmdfjralfarizi_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://youtube.com/channel/UCdAlsvg9B6llWCWV8JMNhug" target="_blank"><img src="https://img.shields.io/badge/YouTube-%231877F2.svg?&style=flat-square&logo=YouTube&logoColor=white" alt="YouTube"></a>
+<a href="https://youtube.com/channel/UCYw80__QHZxPwrbdSJ93Jvw" target="_blank"><img src="https://img.shields.io/badge/YouTube-%231877F2.svg?&style=flat-square&logo=YouTube&logoColor=white" alt="YouTube"></a>
 <a href="https://wa.me/6281333782061" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Tersakiti404-cyber&show_icons=true&theme=radical)
