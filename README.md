@@ -59,16 +59,16 @@ ___
     
     ___
 
-### [` 📫 Contact & Support Me`](https://api.whatsapp.com/send?phone=6281333782061&text=Hai+Bang)
+### [` 📫 Contact & Support Me`](https://api.whatsapp.com/send?phone=6281333782061&text=Assalamualaikum+Bang+Fajar)
 
-### [` 📫 Secound Contact`](https://api.whatsapp.com/send?phone=994401111475&text=Hai+Bang)
+### [` 📫 Secound Contact`](https://api.whatsapp.com/send?phone=6289512871985&text=Assalamualaikum+Bang+Fajar)
 
 ### [`📬 Website `](https://Tersakiti404-cyber.github.io)
     
 <p align="center">
 <a href="https://www.instagram.com/mhmdfjralfarizi_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="akun.tersakiti666@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://api.whatsapp.com/send?phone=6281333782061&text=p+bang+:v" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="WhatsApp"></a>
+<a href="meguminbot12@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://api.whatsapp.com/send?phone=6281333782061&text=Assalamualaikum+bang+:v" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="WhatsApp"></a>
 </p>
 
 ___
