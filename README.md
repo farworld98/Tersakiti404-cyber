@@ -71,4 +71,12 @@ ___
 <a href="https://api.whatsapp.com/send?phone=6281333782061&text=Assalamualaikum+bang+:v" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="WhatsApp"></a>
 </p>
 
-___
+
+### 💻 Free Script Bot Wa
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tersakiti404-cyber&repo=bitch&theme=highcontrast)](https://github.com/Tersakiti404-cyber/bitch)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonz&repo=SELF-HX&theme=highcontrast)](https://github.com/Tersakiti404-cyber/SELF-HX)
+
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
+
