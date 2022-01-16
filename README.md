@@ -17,11 +17,10 @@ ___
  <a href="https://github.com/Tersakiti404-cyber"><img src="https://cardivo.vercel.app/api?name=Tersakiti404-cyber&description=Hi,%20i%27m%20Tersakiti404%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20👋&image=https://i.ibb.co/JtMRbVP/IMG-20220113-145751-018.jpg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@mhmdfjralfarizi_&github=Tersakiti404-cyber&pattern=leaf&colorPattern=%23eaeaea" /><a>
 </p>
 
-___
 
-```
-```
-___
+
+
+
 
 ### [`👇  INTRO MY SELF`](https://Tersakiti404-api.herokuapp.com)
 ```
@@ -57,7 +56,7 @@ ___
   <a href="https://github.com/Tersakiti404-cyber"><img src="https://github-profile-trophy.vercel.app/?username=Tersakiti404-cyber&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
 </p>
     
-    ___
+
 
 ### [` 📫 Contact & Support Me`](https://api.whatsapp.com/send?phone=6281333782061&text=Assalamualaikum+Bang+Fajar)
 
