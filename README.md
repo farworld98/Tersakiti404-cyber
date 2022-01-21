@@ -35,7 +35,6 @@ const fajar = {
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> <br>
 </p>
 
-___
 ```
              You Visitors To:
 ```
