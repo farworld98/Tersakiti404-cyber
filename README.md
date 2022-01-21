@@ -4,10 +4,6 @@
 <p><em>Developer at <a href="https://api.whatsapp.com/send?phone=6281333782061&text=Assalamualaikum+Bang+Fajar">MeguminBOT</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
-[![Instagram _mhmdfjralfarizi__](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/mhmdfjralfarizi_)
-[![GitHub Fajar Alfarizi](https://img.shields.io/github/followers/Tersakiti404-cyber?label=follow&style=social)](https://github.com/Tersakiti404-cyber)
-
-
 ### <img src="https://media3.giphy.com/media/jUZmz3kAiAuLC/200.webp?cid=ecf05e472ppgejelz9vrs67x38inpt96dl2x6i0z51br0jfh&rid=200.webp" width="40"> A little more about me...  
 
 ```javascript
@@ -107,7 +103,7 @@ ___
 <a href="https://www.instagram.com/mhmdfjralfarizi_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="meguminbot12@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
 <a href="https://api.whatsapp.com/send?phone=6281333782061&text=Assalamualaikum+bang+:v" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="WhatsApp"></a>
-</p>
+</p> 
 
 
 ### 💻 Free Script Bot Wa
