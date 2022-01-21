@@ -1,3 +1,31 @@
+<h1 align="center"> Helloworld<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>I'm Fajar Alfarizi</h1>
+
+<img align='right' src="https://media4.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230">
+<p><em>Developer at <a href="https://api.whatsapp.com/send?phone=6281333782061&text=Assalamualaikum+Bang+Fajar">MeguminBOT</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</em></p>
+
+[![Instagram _mhmdfjralfarizi__](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/mhmdfjralfarizi_)
+[![GitHub Fajar Alfarizi](https://img.shields.io/github/followers/Tersakiti404-cyber?label=follow&style=social)](https://github.com/Tersakiti404-cyber)
+
+
+### <img src="https://media3.giphy.com/media/jUZmz3kAiAuLC/200.webp?cid=ecf05e472ppgejelz9vrs67x38inpt96dl2x6i0z51br0jfh&rid=200.webp" width="40"> A little more about me...  
+
+```javascript
+const fajar = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS, Scripting],
+  tools: [React, , ReactNative, Node, Styled-Components, Docker, Etc],
+  otherHobbiesAndStuff: {       
+                        Studying: "Always something new! now playing with NextJS",
+                        Music: "Locked Out From Heaven",
+                      },
+ challenge: "I try to at least learn something new every day"
+}
+```
+
+<img src="https://media0.giphy.com/media/Wj7lNjMNDxSmc/200.webp?cid=ecf05e47gol7hyzftrdpoaar8lchrj2uzbzs0qoz3xgzv14o&rid=200.webp" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
@@ -32,12 +60,22 @@ Intro =
 "Age": "19 Years Old",
 "Birthday": "March - 17, 2002"
    
-  "Big Thanks To My Team"
+  "Big Thanks To"
+"- Allah S.W.T"
    "- 𝟒𝟎𝟑.𝐅𝐨𝐫𝐛𝐢𝐝𝐝𝐞𝐧 (𝟒𝟎𝟑)"
    "- DNS Team"
    "- And My Friends"
+"- And My Partner"
 ```
 ___
+
+### Spotify Playing 🎧
+
+<p align="center">
+  <a href="https://open.spotify.com/user/hbv7yzic965h9y82w194av0cz" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+</p>
+
+------
 
    
    <p align="center">
@@ -60,9 +98,11 @@ ___
 
 ### [` 📫 Contact & Support Me`](https://api.whatsapp.com/send?phone=6281333782061&text=Assalamualaikum+Bang+Fajar)
 
-### [` 📫 Secound Contact`](https://api.whatsapp.com/send?phone=6289512871985&text=Assalamualaikum+Bang+Fajar)
+### [` 📫 My Bot WhatsApp Contact`](https://api.whatsapp.com/send?phone=6289512871985&text=Assalamualaikum+Bang+Fajar)
 
-### [`📬 Website `](https://Tersakiti404-cyber.github.io)
+### [`📬 My Rest Api `](https://Tersakiti404-api.herokuapp.com)
+    
+### [`📬 My Website `](https://Tersakiti404-cyber.github.io)
     
 <p align="center">
 <a href="https://www.instagram.com/mhmdfjralfarizi_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
