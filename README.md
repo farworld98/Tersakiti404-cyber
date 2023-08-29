@@ -52,7 +52,7 @@ Intro =
 "Name": "-",
 "Status": "Graduates SMKN 4 BOJONEGORO",
 "Address": "Bojonegoro, Jawa Timur, Indonesia",
-"Age": "15 Years Old",
+"Age": "16 Years Old",
 "Birthday": "March - 17, 2007"
    
   "Big Thanks To"
@@ -106,10 +106,10 @@ ___
 </p> 
 
 
-### 💻 Free Script Bot Wa
+### 💻 Free Script Bot
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tersakiti404-cyber&repo=bitch&theme=highcontrast)](https://github.com/Tersakiti404-cyber/bitch)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tersakiti404-cyber&repo=Telegram-Trackingbot&theme=highcontrast)](https://github.com/Tersakiti404-cyber/Telegram-Trackingbot)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonz&repo=SELF-HX&theme=highcontrast)](https://github.com/Tersakiti404-cyber/SELF-HX)
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
