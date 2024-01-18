@@ -50,10 +50,10 @@ const fajar = {
 Intro =
 
 "Name": "-",
-"Status": "Graduates SMKN 4 BOJONEGORO",
+"Status": "Pelajar SMKN 4 BOJONEGORO",
 "Address": "Bojonegoro, Jawa Timur, Indonesia",
 "Age": "16 Years Old",
-"Birthday": "March - 17, 2007"
+"Birthday": "March - 17 - 2007"
    
   "Big Thanks To"
 "- Allah S.W.T"
